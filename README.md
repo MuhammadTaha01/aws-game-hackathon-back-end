@@ -1,12 +1,25 @@
 # aws-game-hackathon-back-end
 
-## Description
-[Add a brief description of your project here]
+# AWS Game Hackathon - Backend  
+
+## Project Overview  
+Our backend powers the game by leveraging SQL databases with a well-structured relational schema. This ensures efficient data management and seamless interaction between game elements and user data.  
+
+## Key Highlights  
+- **SQL Database** – Robust and scalable, designed to handle game data effectively.  
+- **Relational Schema** – Structured to ensure smooth data retrieval and integrity.  
+- **AWS EC2 Integration** – Researched and explored by **Muhammad Taha** and **Amman Nega** to deploy backend services securely and reliably.  
+
+## Contributions  
+- **Backend Development** – CRUD functionalities implemented by **Amman**.  
+- **AWS Research** – Research done by **Taha** and **Amman**. Focused on EC2 and RDS services for optimal deployment strategies.  
+
+Our backend is the backbone of the game, ensuring fast, scalable, and secure operations – a result of collaborative effort and dedication.  
 
 ## Prerequisites
-- Node.js (version X.X.X or higher)
-- MySQL (version X.X.X or higher)
-- npm (usually comes with Node.js)
+- Node.js (version v20.14.0 or higher)
+- MySQL (MySQL Workbench 8.0 or higher)
+- npm (usually comes with Node.js {10.7.0})
 
 ## Installation
 Follow these steps to set up and run the project:
